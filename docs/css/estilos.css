@@ -1,0 +1,41 @@
+*{
+	font-family: Arial;
+}
+header{
+	margin-left: 3vw;
+	margin-top: 1vw;
+}
+
+header nav ul{
+	list-style-type: none;
+}
+header nav ul li{
+	margin: 30px 0px;
+}
+header nav ul li a{
+	color: black;
+	text-decoration: none;
+	border-bottom: 2px solid black;
+}
+header nav ul li a:hover{
+	border-bottom: 2px solid red;
+}
+#divTit{
+	border-bottom: 3px solid black;
+}
+nav{
+	border-bottom: 3px solid black;	
+}
+#mapa{
+	margin-left: 3vw;
+	margin-top: 3vw;
+}
+#secDH{
+	border-top: 3px solid black;
+}
+#divIFrame{
+	display: block;
+	margin: auto;
+	margin-top: 3vw;
+	margin-bottom: 3vw;
+}
